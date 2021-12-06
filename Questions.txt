@@ -1,0 +1,7 @@
+Questions:
+
+
+1. Are players of certain nationatlities more expensive than others?
+2. Do certain positions have a higher market value than others?
+3. Is age correlated with market value of players?
+4. Is the number of goals scored correlated with market value?

@@ -1,11 +1,14 @@
-Questions:
+Preliminary questions to ask of the dataset and perform EDA on:
 
 
-1. Are players of certain nationatlities more expensive than others?
-2. Do certain positions have a higher market value than others?
-3. Is age correlated with market value of players?
-4. Is the number of goals scored correlated with market value?
+1. What is the least desirable attributes in male partners? Does this differ from female partners?
 
+2. How important do people think attractiveness is in potential mate selection versus it's real impact?
 
+3. Are shared interested more important than shared racial background in finding a match?
 
-** Here we assume that the only factors influencing market price are player attributes recorded in the data set (i.e. we assume ignorability or all confounders controlled for).  
+4. Can people accurately predict their own perceived value in the dating market?
+
+5. In terms of getting a second date, is it better to be someone's first speed date of the night or their last?
+
+6. Can we accurately predict whether someone will be asked on a second date based on their date's survey response? What attributes matter most?

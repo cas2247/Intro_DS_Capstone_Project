@@ -1,7 +1,7 @@
 Preliminary questions to ask of the dataset and perform EDA on:
 
 
-1. What is the least desirable attributes in male partners? Does this differ from female partners?
+1. What are the least desirable attributes in male partners? Does this differ from female partners?
 
 2. How important do people think attractiveness is in potential mate selection versus it's real impact?
 

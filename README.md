@@ -16,12 +16,12 @@ The dataset used in this project is the **Speed Dating Experiment** dataset, ava
 
 ### Dataset Description
 This dataset, compiled by Columbia Business School professors Ray Fisman and Sheena Iyengar, explores the dynamics of “love at first sight” through speed dating experiments conducted from 2002-2004. Participants engaged in four-minute “dates” and then rated each other on six attributes:
-	•	Attractiveness
-	•	Sincerity
-	•	Intelligence
-	•	Fun
-	•	Ambition
-	•	Shared Interests
+* Attractiveness
+* Sincerity
+* Intelligence
+* Fun
+* Ambition
+* Shared Interests
 
 Participants were also asked whether they would like to see each date again. Additionally, the dataset includes questionnaire responses about demographics, dating habits, self-perception, beliefs on attractive qualities in a mate, and lifestyle.
 

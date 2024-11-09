@@ -1,4 +1,4 @@
-# Masters Intro to Data Science Capstone Project
+# Speed Data-ers : Masters Intro to DS Capstone Project
 This repository contains the code and results from our final capstone project for the Masters Intro to Data Science course at NYU Courant with Professor [Pascal Wallisch](https://github.com/Pascallisch).
 
 ## Project Overview

@@ -5,11 +5,11 @@ This repository contains the code and results from our final capstone project fo
 The overview and structure of this project (based on the course Sittyba) are as follows:  As part of a team of 2-5 members, we selected and analyzed a dataset of our choice to produce a project report of our findings while tying together the skills and techniques we've learned in this class. The project emphasizes finding a topic and rich dataset that bring “joy” and excitement to the analysis process.
 
 Our project follows a suggested structure but allows flexibility in focus. The recommended structure includes:
-	1.	Introduction
-	2.	Hypothesis Testing Analysis
-	3.	Regression Analysis
-	4.	Machine Learning Analysis
-	5.	Overall Summary and Conclusions
+1. Introduction
+2. Hypothesis Testing Analysis
+3. Regression Analysis
+4. Machine Learning Analysis
+5. Overall Summary and Conclusions
 
 ## Dataset
 The dataset used in this project is the **Speed Dating Experiment** dataset, available on Kaggle. You can find it [here](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment).

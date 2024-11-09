@@ -32,9 +32,9 @@ For additional insights from the researchers, see their paper on [Racial Prefere
 Our project reveals intriguing patterns in how individuals evaluate romantic partners in a speed dating setting. 
 
 Through a series of analyses, we explored gender differences in match likelihood and the role of shared interests in fostering connections:
-	• **Gender Differences in Matching:** Hypothesis testing showed that men were over 10% more likely than women to indicate a desire for a match, a difference that proved to be both practically and statistically significant.
-	• **Importance of Shared Interests:** Our analyses highlighted a strong correlation between a dater’s decision to match and the extent to which they shared preferences and common interests with their partner.
-	• **Predicting Match Success:** To assess whether a dater would want to match with their partner, we applied several classification models, including decision trees, support vector machines (SVM), k-means clustering, and neural networks. Among these, the SVM model was the most effective in predicting match outcomes based on preference and rating data collected after each date.
+	• 	**Gender Differences in Matching:** Hypothesis testing showed that men were over 10% more likely than women to indicate a desire for a match, a difference that proved to be both practically and statistically significant.
+	• 	**Importance of Shared Interests:** Our analyses highlighted a strong correlation between a dater’s decision to match and the extent to which they shared preferences and common interests with their partner.
+	• 	**Predicting Match Success:** To assess whether a dater would want to match with their partner, we applied several classification models, including decision trees, support vector machines (SVM), k-means clustering, and neural networks. Among these, the SVM model was the most effective in predicting match outcomes based on preference and rating data collected after each date.
 
 Our findings provide evidence for gender differences in dating behaviors and underscore the importance of shared interests in creating successful matches. Although these insights are engaging (and perhaps a bit humorous), a more comprehensive study on romantic attraction could involve alternative analytical methods or even a new experiment.
 
